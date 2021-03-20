@@ -1,0 +1,1 @@
+data is directed and weighted but i converted it into undirected by some logic explained inside the code.
